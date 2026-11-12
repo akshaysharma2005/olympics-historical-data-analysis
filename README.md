@@ -38,10 +38,10 @@ This repository features an interactive web application with dynamic analytical 
 
 ## 💡 Strategic Insights & Key Findings
 
-- **Gender Parity Milestone**: Female participation grew from zero in 1896 to 45.0% by Rio 2016, with near 50/50 balance achieved in Paris 2024.
-- **Host Nation Premium**: Host countries achieve an average 38% increase in medal share during their home games edition.
-- **Athlete Biometrics**: Basketball players averaged 198cm in height while female artistic gymnasts averaged 155cm, showcasing specialization.
-- **Geopolitical Cold War**: US-USSR rivalry accounted for over 42% of all Olympic podium finishes between 1952 and 1988.
+- **Gender Parity Milestone**: Female participation grew from zero in 1896 to 45.0% by Rio 2016.
+- **Host Nation Premium**: Host countries achieve an average 38% increase in medal share during their games.
+- **Athlete Biometrics**: Specialized body archetypes evolved across disciplines (e.g. height in basketball vs gymnastics).
+- **Geopolitical Cold War**: US-USSR rivalry accounted for over 42% of all podium finishes between 1952 and 1988.
 
 ---
 
